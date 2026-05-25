@@ -1,0 +1,15 @@
+{
+  "name": "chai_backend",
+  "version": "1.0.0",
+  "description": "this is a backend course project",
+  "keywords": [
+    "hasan"
+  ],
+  "license": "ISC",
+  "author": "Sayyed Nazeer Hasan",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
