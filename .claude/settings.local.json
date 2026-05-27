@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(powershell -ExecutionPolicy Bypass -File \"c:\\\\Users\\\\alman\\\\OneDrive\\\\Desktop\\\\Code Playground\\\\WEB DEV\\\\Chai_Backend\\\\tls_test.ps1\")",
+      "Bash(node tls_test.mjs)"
+    ]
+  }
+}
